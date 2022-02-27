@@ -1,6 +1,6 @@
 ## Welcome to PowershellArabia page in GitHub
 
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCUVK90emEQqk1_JfQn0CBqQ&psig=AOvVaw3jnZswzJm96XZvSxZvQS_i&ust=1646034045144000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCLjbnOWwn_YCFQAAAAAdAAAAABAD)
+![Image](https://yt3.ggpht.com/ytc/AKedOLTvNoNQsZhe84Re_Ac4TWxXL-N0BhOQqjoFKC1g=s600-c-k-c0x00ffffff-no-rj-rp-mo)
 
 You can use the [editor on GitHub](https://github.com/faarooq86/PowerShellArabia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
