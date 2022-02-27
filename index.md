@@ -2,9 +2,6 @@
 
 ![Image](https://yt3.ggpht.com/ytc/AKedOLTvNoNQsZhe84Re_Ac4TWxXL-N0BhOQqjoFKC1g=s600-c-k-c0x00ffffff-no-rj-rp-mo)
 
-You can use the [editor on GitHub](https://github.com/faarooq86/PowerShellArabia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 This is the official PowershellArabia Page in Github, this page is going to be the tomprary page until the community website is ready...
 
