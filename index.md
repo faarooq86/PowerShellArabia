@@ -3,7 +3,7 @@
 ![Image](https://yt3.ggpht.com/ytc/AKedOLTvNoNQsZhe84Re_Ac4TWxXL-N0BhOQqjoFKC1g=s600-c-k-c0x00ffffff-no-rj-rp-mo)
 
 
-This is the official PowershellArabia Page in Github, this page is going to be the tomprary page until the community website is ready...
+This is the official PowershellArabia Page in Github, this page is going to be the temporary page until the community website is ready...
 
 ### Markdown
 
