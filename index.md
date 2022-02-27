@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/faarooq86/PowerShellArabia
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+This is the official PowershellArabia Page in Github, this page is going to be the tomprary page until the community website is ready...
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
