@@ -30,5 +30,7 @@ Syntax highlighted code block
 ### Upcoming Events:
 Year 2022:
 ```
+- 23rd of March 2022:
+** PowerShell: ScriptRunner – Develop/Manage/Delegate PowerShell Scripts**
 
 ```
