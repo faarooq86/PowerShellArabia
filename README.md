@@ -14,7 +14,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 
 ### Upcoming Events:
+
 Year 2022:
+# 23rd of March 2022:
+# PowerShell and ScriptRunner – Develop/Manage and Delegate PowerShell Scripts
+
+
 ```
 - 23rd of March 2022:
 # PowerShell and ScriptRunner – Develop/Manage and Delegate PowerShell Scripts
