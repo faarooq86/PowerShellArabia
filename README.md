@@ -44,5 +44,4 @@ In his free time he is very much into music and you see (and hear!) him playing 
 
 ```
 
-فاروق ترجمان ###
 
