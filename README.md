@@ -34,7 +34,7 @@ Syntax highlighted code block
 Year 2022:
 ```
 - 23rd of March 2022:
-** PowerShell: ScriptRunner – Develop/Manage/Delegate PowerShell Scripts**
+** PowerShell and ScriptRunner – Develop/Manage and Delegate PowerShell Scripts**
 
 ```
 
