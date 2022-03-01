@@ -9,10 +9,12 @@
 This is the official PowershellArabia Page in Github, this page is going to be the temporary page until the community website is ready...
 Please subscribe to [our youtube channel](https://www.youtube.com/channel/UCUVK90emEQqk1_JfQn0CBqQ)
 
+<br></br>
+
 
 ## Upcoming Events:
 
-
+![image](https://github.com/faarooq86/PowerShellArabia/blob/gh-pages/Scriptrunner_logo.png?raw=true)
 
 ### Wednesday 23rd of March 2022 on 6 PM +3 GMT | 4 PM CET:
 ### PowerShell and ScriptRunner – Develop/Manage and Delegate PowerShell Scripts
