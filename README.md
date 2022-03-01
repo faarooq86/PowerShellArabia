@@ -7,22 +7,18 @@
 
 
 This is the official PowershellArabia Page in Github, this page is going to be the temporary page until the community website is ready...
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please subscribe to [our channel](https://www.youtube.com/channel/UCUVK90emEQqk1_JfQn0CBqQ)
 
 
-### Upcoming Events:
+## Upcoming Events:
 
-Year 2022:
-# 23rd of March 2022:
-# PowerShell and ScriptRunner – Develop/Manage and Delegate PowerShell Scripts
+
+
+### 23rd of March 2022:
+### PowerShell and ScriptRunner – Develop/Manage and Delegate PowerShell Scripts
 
 
 ```
-- 23rd of March 2022:
-# PowerShell and ScriptRunner – Develop/Manage and Delegate PowerShell Scripts
 
 PowerShell is an awesome framework for automating recurring tasks but, it requires three things:
 
