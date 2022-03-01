@@ -14,9 +14,10 @@ Please subscribe to [our channel](https://www.youtube.com/channel/UCUVK90emEQqk1
 
 
 
-### 23rd of March 2022:
+### Wednesday 23rd of March 2022 on 6 PM +3 GMT | 4 PM CET:
 ### PowerShell and ScriptRunner – Develop/Manage and Delegate PowerShell Scripts
 
+Note: This session will be in english languge.
 
 ```
 
@@ -39,5 +40,9 @@ In this session, Heiko Brenn will show you how ScriptRunner does just that by si
 Heiko is PowerShell enthusiast and Product Expert at ScriptRunner - The PowerShell Management Company. He has been working in the IT industry for more than 25 years in a number of different roles like IT administrator, consultant and product manager. 
 In his free time he is very much into music and you see (and hear!) him playing drums in the office once in a while.
 
+
+
 ```
+
+فاروق ترجمان ###
 
