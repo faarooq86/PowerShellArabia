@@ -38,12 +38,11 @@ Year 2022:
 
 PowerShell is an awesome framework for automating recurring tasks but, it requires three things:
 
-    PowerShell know-how
-    Time to write scripts
-    Backend permissions to run scripts in your on-premises, hybrid or cloud environment.
+    1. PowerShell know-how
+    2. Time to write scripts
+    3. Backend permissions to run scripts in your on-premises, hybrid or cloud environment.
 
 These three requirements typically limit the use of PowerShell to IT administrators and IT Pros.
-
 
 Now, what if you could take your code and delegate the script execution to helpdesk teams and end users?
 
@@ -52,8 +51,8 @@ What if your scripts, modules and credentials could be centrally managed and a w
 In this session, Heiko Brenn will show you how ScriptRunner does just that by simplifying the way you develop, manage and delegate PowerShell scripts.
 
 
-Heiko is PowerShell enthusiast and Product Expert at ScriptRunner - The PowerShell Management Company. He has been working in the IT industry for more than 25 years in a number of different roles like IT administrator, consultant and product manager. 
 
+Heiko is PowerShell enthusiast and Product Expert at ScriptRunner - The PowerShell Management Company. He has been working in the IT industry for more than 25 years in a number of different roles like IT administrator, consultant and product manager. 
 In his free time he is very much into music and you see (and hear!) him playing drums in the office once in a while.
 
 ```
