@@ -20,7 +20,7 @@ Please subscribe to [our youtube channel](https://www.youtube.com/channel/UCUVK9
 ### Wednesday 23rd of March 2022 on 6 PM +3 GMT | 4 PM CET:
 ### PowerShell and ScriptRunner – Develop/Manage and Delegate PowerShell Scripts
 
-Note: This session will be streamed in english languge on [our youtube channel](https://www.youtube.com/channel/UCUVK90emEQqk1_JfQn0CBqQ)
+Note: This session will be streamed in english language on [our youtube channel](https://www.youtube.com/channel/UCUVK90emEQqk1_JfQn0CBqQ)
 
 ```
 
