@@ -17,6 +17,16 @@ Please subscribe to [our youtube channel](https://www.youtube.com/channel/UCUVK9
 
 ![image](https://github.com/faarooq86/PowerShellArabia/blob/gh-pages/Scriptrunner_logo.png?raw=true)
 
+### Wednesday 16th of November 2022 on 6 PM +3 GMT | 4 PM CET:
+### Delegate Active Diecrtry tasks using Scriptrunner and Powershell
+
+Note: This session will be streamed in english language on [our youtube channel](https://www.youtube.com/channel/UCUVK90emEQqk1_JfQn0CBqQ), The session will be recorded and can be watched anytime on our youtube channel later.
+
+
+
+
+![image](https://github.com/faarooq86/PowerShellArabia/blob/gh-pages/Scriptrunner_logo.png?raw=true)
+
 ### Wednesday 23rd of March 2022 on 6 PM +3 GMT | 4 PM CET:
 ### PowerShell and ScriptRunner – Develop/Manage and Delegate PowerShell Scripts
 
@@ -46,5 +56,8 @@ In his free time he is very much into music and you see (and hear!) him playing 
 
 
 ```
+
+
+
 
 
