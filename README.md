@@ -18,11 +18,29 @@ Please subscribe to [our youtube channel](https://www.youtube.com/channel/UCUVK9
 ![image](https://github.com/faarooq86/PowerShellArabia/blob/gh-pages/Scriptrunner_logo.png?raw=true)
 
 ### Wednesday 16th of November 2022 on 6 PM +3 GMT | 4 PM CET:
-### Delegate Active Diecrtry tasks using Scriptrunner and Powershell
+### Delegate Active Directory tasks using Scriptrunner and Powershell
 
 Note: This session will be streamed in english language on [our youtube channel](https://www.youtube.com/channel/UCUVK90emEQqk1_JfQn0CBqQ), The session will be recorded and can be watched anytime on our youtube channel later.
 
+```
+Active Directory PowerShell module is an awesome module which allows system admins to manage, control and automate the daily boring tasks. But the problem with great power is the great responsibility.
 
+You can’t simply give access to the non-technical teams or the less technical folks to run scripts, this will bring tragedy to your environment.
+
+But no worries, Scriptrunner is here, the ultimate solution that allows system admins to convert all the PowerShell scripts into web services and delegate them to the non-technical and less technical folks easily.
+
+In this session with Mr. Heiko from ScriptRunner we will show you all how to convert your regular PowerShell scripts into web-based tasks and delegate it.
+
+
+Heiko is PowerShell enthusiast and Product Expert at ScriptRunner - The PowerShell Management Company. He has been working in the IT industry for more than 25 years in several different roles like IT administrator, consultant and product manager. 
+In his free time, he is very much into music, and you see (and hear!) him playing drums in the office occasionally.
+```
+
+
+
+
+
+## Previous Events:
 
 
 ![image](https://github.com/faarooq86/PowerShellArabia/blob/gh-pages/Scriptrunner_logo.png?raw=true)
