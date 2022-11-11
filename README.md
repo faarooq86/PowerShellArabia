@@ -17,7 +17,7 @@ Please subscribe to [our youtube channel](https://www.youtube.com/channel/UCUVK9
 
 ![image](https://github.com/faarooq86/PowerShellArabia/blob/gh-pages/Scriptrunner_logo.png?raw=true)
 
-### Wednesday 16th of November 2022 on 5 PM +3 GMT | 4 PM CET:
+### Wednesday 16th of November 2022 on 5 PM +3 GMT | 3 PM CET:
 ### Delegate Active Directory tasks using Scriptrunner and Powershell
 
 Note: This session will be streamed in english language on [our youtube channel](https://www.youtube.com/channel/UCUVK90emEQqk1_JfQn0CBqQ), The session will be recorded and can be watched anytime on our youtube channel later.
