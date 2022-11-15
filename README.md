@@ -21,6 +21,9 @@ Please subscribe to [our youtube channel](https://www.youtube.com/channel/UCUVK9
 ### Delegate Active Directory tasks using Scriptrunner and Powershell
 
 Note: This session will be streamed in english language on [our youtube channel](https://www.youtube.com/channel/UCUVK90emEQqk1_JfQn0CBqQ), The session will be recorded and can be watched anytime on our youtube channel later.
+[Please click here to watch the session](https://www.youtube.com/watch?v=2GR4uT7e3NE)
+
+
 
 ```
 Active Directory PowerShell module is an awesome module which allows system admins to manage, control and automate the daily boring tasks. But the problem with great power is the great responsibility.
